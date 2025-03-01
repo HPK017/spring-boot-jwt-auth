@@ -18,6 +18,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+//User Model
 @Getter
 @Setter
 @NoArgsConstructor
